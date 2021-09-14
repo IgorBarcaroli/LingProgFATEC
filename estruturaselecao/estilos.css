@@ -1,0 +1,12 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(111,236,140,0.7399334733893557) 18%, rgba(0,212,255,1) 100%);
+    font-size: 25px;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    font-family:monospace;
+  }
+  footer{
+    font-size: 15px;
+  }

@@ -167,4 +167,5 @@ function exe23(){
         }  
     }
     while (opcao != 4)
+    
 }
